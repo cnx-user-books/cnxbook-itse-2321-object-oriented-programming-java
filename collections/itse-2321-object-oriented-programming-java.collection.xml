@@ -1,0 +1,131 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11985</md:content-id>
+    <md:title>ITSE 2321 - Object-Oriented Programming (Java)</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>7733afc4-f170-419e-98c1-d0608c24f3ee</md:uuid>
+<md:slug>itse-2321-object-oriented-programming-java</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Preface</md:title>
+      <col:content>
+        <col:module document="m45222"/>
+        <col:module document="m63203"/>
+        <col:module document="m63123"/>
+        <col:module document="m63206"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Essence of OOP</md:title>
+      <col:content>
+        <col:module document="m44153"/>
+        <col:module document="m44150"/>
+        <col:module document="m44193"/>
+        <col:module document="m44156"/>
+        <col:module document="m44182"/>
+        <col:module document="m44168"/>
+        <col:module document="m44177"/>
+        <col:module document="m44190"/>
+        <col:module document="m44195"/>
+        <col:module document="m44196"/>
+        <col:module document="m44197"/>
+        <col:module document="m44198"/>
+        <col:module document="m44199"/>
+        <col:module document="m44200"/>
+        <col:module document="m44201"/>
+        <col:module document="m44202"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Multimedia</md:title>
+      <col:content>
+        <col:module document="m44148"/>
+        <col:module document="m45761"/>
+        <col:module document="m63525"/>
+        <col:module document="m44149"/>
+        <col:module document="m45762"/>
+        <col:module document="m62037"/>
+        <col:module document="m44203"/>
+        <col:module document="m45763"/>
+        <col:module document="m44204"/>
+        <col:module document="m45768"/>
+        <col:module document="m44205"/>
+        <col:module document="m45773"/>
+        <col:module document="m44206"/>
+        <col:module document="m45774"/>
+        <col:module document="m44207"/>
+        <col:module document="m45775"/>
+        <col:module document="m44238"/>
+        <col:module document="m45778"/>
+        <col:module document="m44210"/>
+        <col:module document="m45781"/>
+        <col:module document="m44234"/>
+        <col:module document="m45782"/>
+        <col:module document="m44214"/>
+        <col:module document="m44223"/>
+        <col:module document="m45783"/>
+        <col:module document="m44228"/>
+        <col:module document="m45784"/>
+        <col:module document="m44242"/>
+        <col:module document="m45785"/>
+        <col:module document="m44246"/>
+        <col:module document="m45786"/>
+        <col:module document="m44247"/>
+        <col:module document="m45787"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Java Collections Framework</md:title>
+      <col:content>
+        <col:module document="m46135"/>
+        <col:module document="m48040"/>
+        <col:module document="m46136"/>
+        <col:module document="m48041"/>
+        <col:module document="m46140"/>
+        <col:module document="m48043"/>
+        <col:module document="m46137"/>
+        <col:module document="m48044"/>
+        <col:module document="m46138"/>
+        <col:module document="m48114"/>
+        <col:module document="m46141"/>
+        <col:module document="m48121"/>
+        <col:module document="m46142"/>
+        <col:module document="m48122"/>
+        <col:module document="m46143"/>
+        <col:module document="m48130"/>
+        <col:module document="m46189"/>
+        <col:module document="m48132"/>
+        <col:module document="m46190"/>
+        <col:module document="m48124"/>
+        <col:module document="m46191"/>
+        <col:module document="m48138"/>
+        <col:module document="m46192"/>
+        <col:module document="m48137"/>
+        <col:module document="m46193"/>
+        <col:module document="m48140"/>
+        <col:module document="m46194"/>
+        <col:module document="m48153"/>
+        <col:module document="m46197"/>
+        <col:module document="m48168"/>
+        <col:module document="m46198"/>
+        <col:module document="m48166"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Practice Programs</md:title>
+      <col:content>
+        <col:module document="m44252"/>
+        <col:module document="m44254"/>
+        <col:module document="m44255"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Java Documentation</md:title>
+      <col:content>
+        <col:module document="m45117"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
