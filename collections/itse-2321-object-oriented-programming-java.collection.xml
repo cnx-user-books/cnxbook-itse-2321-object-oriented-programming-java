@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Richard Baldwin">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11985</md:content-id>
     <md:title>ITSE 2321 - Object-Oriented Programming (Java)</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>7733afc4-f170-419e-98c1-d0608c24f3ee</md:uuid>
-<md:slug>itse-2321-object-oriented-programming-java</md:slug>
-</metadata>
+    <md:slug>itse-2321-object-oriented-programming-java</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>Preface</md:title>
